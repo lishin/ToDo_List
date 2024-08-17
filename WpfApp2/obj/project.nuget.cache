@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "VQJA5yFCkN0=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ntuli\\source\\repos\\WpfApp2\\WpfApp2\\WpfApp2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ntuli\\.nuget\\packages\\stub.system.data.sqlite.core.netstandard\\1.0.118\\stub.system.data.sqlite.core.netstandard.1.0.118.nupkg.sha512",
+    "C:\\Users\\ntuli\\.nuget\\packages\\system.data.sqlite.core\\1.0.118\\system.data.sqlite.core.1.0.118.nupkg.sha512"
+  ],
+  "logs": []
+}
